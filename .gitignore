@@ -1,0 +1,17 @@
+# Node / npm
+node_modules/
+npm-debug.log*
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
