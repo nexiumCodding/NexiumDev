@@ -6,7 +6,7 @@ Site portfolio et tarifs pour NexiumCodding, développeur GLua (Garry's Mod).
 
 Le site est hébergé gratuitement avec **GitHub Pages**.
 
-URL : `https://tonpseudo.github.io/NexiumDev/`
+URL : `https://NexiumDev.github.io/NexiumDev/`
 
 ## 📂 Structure des fichiers
 - `index.html` → page principale du site
